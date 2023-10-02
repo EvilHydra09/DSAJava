@@ -1,10 +1,7 @@
-import Array.MyArray;
-import Array.Sorting.Sort;
+import Pattern.Pattern;
 
 public class Main {
     public static void main(String[] args) {
-      char arr[] = new char[3];
-        MyArray.inputArray(arr);
-        MyArray.printArray(arr);
+        Pattern.hollowRectangle(5,6);
     }
 }
