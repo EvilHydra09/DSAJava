@@ -1,7 +1,10 @@
-import Pattern.Pattern;
+import Basic.Basic;
+import Pattern.NumberPattern;
+
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Pattern.hollowParrellogram(3,5);
+
     }
 }
